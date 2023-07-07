@@ -1,4 +1,4 @@
-## Nustrale Studios
+## Nustrale Studios 🐗
 
 We make games, but nustrale.
 
