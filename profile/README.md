@@ -1,4 +1,6 @@
-## Hi there 👋
+## Nustrale Studios
+
+We make games, but nustrale.
 
 <!--
 
